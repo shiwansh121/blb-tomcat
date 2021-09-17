@@ -10,7 +10,7 @@ pipeline {
       stage('checkout') {
            steps {
              
-                git branch: 'master', url: ' https://github.com/lakshmi4025/blb-tomcat.git'
+                git branch: 'master', url: ' https://github.com/shiwansh121/blb-tomcat.git'
              
           }
         }
